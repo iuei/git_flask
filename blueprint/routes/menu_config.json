@@ -1,0 +1,27 @@
+[
+    {
+        "name": "资料审核",
+        "index": "1-0",
+        "icon": "ui_set",
+        "children": [
+            {
+                "index": "1-1",
+                "name": "男生头像审核",
+                "icon": "account",
+                "path": "/index/user/check_info_man"
+            },
+            {
+                "index": "1-2",
+                "name": "女生头像审核",
+                "icon": "account",
+                "path": "/index/user/check_info_woman"
+            },
+            {
+                "index": "1-10",
+                "name": "男生微信审核",
+                "icon": "order",
+                "path": "/index/user/check_info_wechat"
+            }
+        ]
+    }
+  ]
